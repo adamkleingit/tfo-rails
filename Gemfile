@@ -8,6 +8,8 @@ gem 'rails', '3.2.13'
 group :development do
   gem 'sqlite3'
 end
+
+gem 'thin'
 gem 'pg'
 gem 'inherited_resources'
 
